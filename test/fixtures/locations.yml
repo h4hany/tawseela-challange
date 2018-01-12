@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  latitude: 1.5
+  longtiude: 1.5
+  trip: one
+
+two:
+  latitude: 1.5
+  longtiude: 1.5
+  trip: two
